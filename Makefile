@@ -8,8 +8,7 @@ VENDOR_URL =		http://hello.world/
 
 IMAGE_VOLUME_SIZE =	50G
 IMAGE_BOOTSCRIPT =	stable
-IMAGE_NAME =		Hello World (v1.2 BETA)
-
+IMAGE_NAME = Hello World (v1.2 BETA)
 
 ## Image tools  (https://github.com/scaleway/image-tools)
 all:	docker-rules.mk
